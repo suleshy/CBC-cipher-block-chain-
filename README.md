@@ -1,6 +1,6 @@
 # CBC-cipher-block-chain-
-Cipher block chain is vulnerable to a bit flip 
-Here is a python3 code to exploit such a vulnerability
+#Cipher block chain is vulnerable to a bit flip 
+#Here is a python3 code to exploit such a vulnerability
 
 import requests
 from base64 import b64decode, b64encode
